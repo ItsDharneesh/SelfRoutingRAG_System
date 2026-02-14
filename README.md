@@ -161,5 +161,5 @@ python -m src.eval.run_eval
 ## Author
 Built as an advanced Agentic RAG exploration project focusing on dynamic routing, retrieval evaluation, and production-ready orchestration.
 
-Built as an advanced Agentic RAG exploration project focusing on dynamic routing, retrieval evaluation, and production-ready orchestration.
+
 
